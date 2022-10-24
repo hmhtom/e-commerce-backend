@@ -14,7 +14,7 @@
     "url": ""
   },
   "keywords": [],
-  "author": "",
+  "author": "alex",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3"
